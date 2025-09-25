@@ -1,0 +1,21 @@
+I am Olivier Kouamé, a Senior Database Administrator with over 20 years in IT and 16 years specialized in Database 
+Administration. I am specialist in SQL Server, PostgreSQL, Oracle, and MySQL.
+
+In my career, I’ve worked as an Application Developer for a banking software provider, as a Security 
+Engineer for a bank and telecom companies, and as a Database Administrator for bank, telecom, 
+and currently, for an insurance company.
+
+Beyond technical roles, I have managed teams in IT Security and Database Administration. In security role, I helped 
+organizations prevent security breaches, mitigate cyber threats and implement compliance programs aligned with NIST, 
+PCI DSS, GDPR, and ISO standards.
+
+In database roles, I help designed and implement robust architectures with HA and disaster recovery solutions, to 
+meet critical business RTO and RPO requirements. I collaborate closely with development teams to optimize schema 
+design, SPs, tune query performance, and integrate modern DevOps practices, CI/CD pipelines, and cloud technologies.
+
+I’ve led key initiatives including database migrations, consolidation projects, BI implementations, and security 
+hardening for SQL Server, PostgreSQL and Oracle environments.
+
+I currently live in Ottawa, I'm a native French speaker, and I'm eager to bring my expertise to xxx as a 
+Senior Database Administrator.
+
